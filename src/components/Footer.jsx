@@ -25,10 +25,10 @@ export default function Footer() {
           <a href="ramtanayc@gmailcom" className="hover:text-blue-500" aria-label="Email">
             <FaEnvelope />
           </a>
-          <a href="https://github.com/yourgithub" target="_blank" rel="noopener noreferrer" className="hover:text-blue-500" aria-label="GitHub">
+          <a href="https://github.com/ramtanay" target="_blank" rel="noopener noreferrer" className="hover:text-blue-500" aria-label="GitHub">
             <FaGithub />
           </a>
-          <a href="https://linkedin.com/in/yourlinkedin" target="_blank" rel="noopener noreferrer" className="hover:text-blue-500" aria-label="LinkedIn">
+          <a href="https://www.linkedin.com/in/ramtanay-chakraborty-279b78244" target="_blank" rel="noopener noreferrer" className="hover:text-blue-500" aria-label="LinkedIn">
             <FaLinkedin />
           </a>
           <a href="https://twitter.com/yourtwitter" target="_blank" rel="noopener noreferrer" className="hover:text-blue-500" aria-label="Twitter">
